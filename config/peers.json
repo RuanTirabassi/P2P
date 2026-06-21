@@ -1,1 +1,0 @@
-{\n  "self": {\n    "peer_id": "ALUNO-02",\n    "sticker_id": "FIG-02",\n    "sticker_url": "http://SEU-IP:8080/images/FIG-02.png"\n  },\n  "neighbors": [\n    { "host": "192.168.0.10", "port": 8080 },\n    { "host": "192.168.0.11", "port": 8080 }\n  ]\n}\n

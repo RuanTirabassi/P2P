@@ -1,1 +1,0 @@
-# Dependências do nó P2P Album de Figurinhas\n# Instalar com: pip install -r requirements.txt\n\n# Servidor WebSocket (equivalente ao 'ws' do Node.js)\nsimple-websocket-server==0.6.0\n\n# Cliente WebSocket para conexões de saída\nwebsocket-client==1.8.0\n\n# UUID já faz parte da stdlib Python (uuid) — não precisa instalar\n
