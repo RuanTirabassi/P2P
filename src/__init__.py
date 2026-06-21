@@ -1,0 +1,1 @@
+"""src — pacote principal do nó P2P."""\n
